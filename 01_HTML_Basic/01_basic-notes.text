@@ -1,0 +1,50 @@
+-- Create a file named with index.html ( Beacuse index.html access by browser )
+
+-- When we start a html Code so we use html head and Body tag Always, so we can use ! mark to create boiler-Plate
+
+Boiler-Plate:-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+1. <!DOCTYPE html> ( Doc means Document and Type Show that its a html type Document )
+
+2. html -> html is a main tag which are use to render the Website actually.
+3. head -> head is use to render the Website information ( like css, fonts, Script, metadata )
+4. body -> body is actual tag tp render hole structure of the Website.
+
+** How we use and Create tag:- **
+
+There are two type of tags:-
+1. closing tag 
+2. self closing tag
+
+1. closing tag ==>>
+
+<> open -----  </> close 
+<html> </html>
+<head> </head>
+<body> </body>
+<h1> </h1> to h6
+<p> </p>
+
+2. self closing tag ==>>
+
+<> self closing
+<img>
+<br>
+<hr>
+
+** Talk about some Tags :- ** 
+
+br tag ==>> use for break line
+hr tag ==>> use for create horizontal line
+h1 to h6 ==>> these all tags are use for creating heading on webPage and also for SEO;
