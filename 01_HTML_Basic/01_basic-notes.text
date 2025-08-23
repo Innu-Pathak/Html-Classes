@@ -17,9 +17,9 @@ Boiler-Plate:-
 
 1. <!DOCTYPE html> ( Doc means Document and Type Show that its a html type Document )
 
-2. html -> html is a main tag which are use to render the Website actually.
+2. html -> html is a main tag which are use to render the Website actually on the browser.
 3. head -> head is use to render the Website information ( like css, fonts, Script, metadata )
-4. body -> body is actual tag tp render hole structure of the Website.
+4. body -> body is actual tag to render hole structure of the Website.
 
 ** How we use and Create tag:- **
 
@@ -48,4 +48,18 @@ There are two type of tags:-
 br tag ==>> use for break line
 hr tag ==>> use for create horizontal line
 h1 to h6 ==>> these all tags are use for creating heading on webPage and also for SEO;
+p tag ==>> P tag is use to write paragraph, sentences.
 
+
+
+some Imp Notes
+
+-- (Lorem) is use to create some demo words
+-- when we need comments on vs code show we can use ( clrt + / )
+-- when we need to zoom In and zoom out so we can use ( clrt + ===== clrt -)
+-- when we copy line on bottom so we press ( ctrl + d )
+-- when swipe line up or bottom so we just press ( alt and use Arrow button up and down )
+-- when we want to select all words so just press ( ctrl + a ) 
+-- when we want to copy words so just press ( ctrl + c ) 
+-- when we want to paste words so just press ( ctrl + v ) 
+-- when we want to undo anything ( ctrl + z )
